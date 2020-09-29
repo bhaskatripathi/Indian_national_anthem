@@ -3,4 +3,5 @@ Tried the Indian national Anthem of Arduino Uno with a Piezo buzzer. Being a par
 # Click to open the YouTube video:
 [![Indian National Anthem on Arduino Uno](https://hackster.imgix.net/uploads/attachments/495697/F3DDJQ4IAP6UGTG.png?auto=compress%2Cformat&w=1280&h=960&fit=max)](https://www.youtube.com/watch?v=OKFCbOEibQc)
 
+For More details refer : https://create.arduino.cc/projecthub/bhaskar-tripathi/india-s-national-anthem-played-on-a-piezo-buzzer-894cfa
 Note - Please show your love with a star on the project if you like it.
